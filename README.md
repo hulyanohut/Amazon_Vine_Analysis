@@ -12,4 +12,4 @@
 
 ✔️ The Table_check.png shows that the information was succesfully stacked into pgAdmin.
 
-![Amazon_Vine_Analysis](capture1.png)
+![Amazon_Vine_Analysis](picture1.png)
